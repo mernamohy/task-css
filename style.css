@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+/* start navbar section */
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 30px;
+    color: black;
+    font-family: cursive;
+    margin-top: 10px;
+    display: inline-block;
+}
+/* end navbar section */
+
+/* start header section */
+.header{
+   background-image: url(../task1css/img/66.jpg);
+   height: 600px;
+   background-size: cover;
+}
+.header h2{
+    font-size: 40px;
+    padding-top: 10%;
+    font-family: cursive;
+    letter-spacing: 2.5px;
+    margin-bottom: 30px;
+}
+.header button{
+    padding: 10px 40px;
+    font-size: 18px;
+    border: none;
+    margin-right: 12px;
+    background-color: #5b5ba9;
+    color: white;
+    border-radius: 25px;
+
+}
+/* end header section */
+/* start media section */
+.media{
+    margin-top: 50px;
+}
+.media h2{
+    font-size: 30px;
+    margin-bottom: 18px;
+    font-family: cursive;
+    letter-spacing: 1.5px;
+}
+.media p{
+    font-size: 23px;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.media img{
+    margin-right: 33px;
+}
+/* end media section */
